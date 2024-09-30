@@ -223,4 +223,8 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+ 
+  kramdown:
+  math_engine: MathJax
+ 
     
