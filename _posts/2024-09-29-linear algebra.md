@@ -14,15 +14,15 @@
 * 基础知识:<ul>
 * 矩阵乘以向量：<ul>
 * 1.矩阵乘以行向量：
-<br> $$
-\left[
+<br> 
+$\left[
 \begin{matrix}
 a &b &c\\
 d &e &f\\
 h &i &j
 \end{matrix}
-\right]
-$$
+\right]$
+
 $\left[
 \begin{matrix}
 m\\
