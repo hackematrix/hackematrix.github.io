@@ -1,8 +1,8 @@
 ---
-title: introduction to algorithms
-date: 2024-12-12 8:00:00 +/-TTTT
-categories: [computer,algorithm]
-tages:[introduction]
+title: Introduction to algorithms
+date: 2024-12-12 10:00:00 +/-TTTT
+categories: [Computer,algorithms]
+tags: [algorithms]
 ---
 
 # 插入排序
